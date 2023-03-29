@@ -1,0 +1,21 @@
+Torpedo_stadium.scs <- concept_a_sport_complex;
+=> nrel_main_idtf:
+   [Torpedo stadium]
+   (* <- lang_en;; <- name_en;;*);
+   [Стадион Торпедо]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=> nrel_open_time:
+   [7:00];
+=> nrel_close_time:
+   [22:00];
+=> nrel_region:
+   minsk_region;;
+=> nrel_phone_number:
+   [375 15 753-69-38]
+   (* <- concept_phone_number;;*);
+=> nrel_address:
+   [ул.Деревянко,5]
+   (*<-concept_address;;*);
+=> nrel_capacity
+   [6 524]
+   (*<-concept_capacity;;*);;;

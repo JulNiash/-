@@ -1,0 +1,21 @@
+Brestskiy.scs <- concept_a_sport_complex;
+=> nrel_main_idtf:
+   [Brestskiy]
+   (* <- lang_en;; <- name_en;;*);
+   [Брестский]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=> nrel_open_time:
+    [8:00];
+=> nrel_close_time:
+    [20:00];
+=> nrel_region:
+   brest_region;;
+=> nrel_phone_number:
+   [375 16 220-84-95]
+   (* <- concept_phone_number;;*);
+=> nrel_address:
+   [ул.Гоголя,9]
+   (*<-concept_address;;*);
+=> nrel_capacity
+   [10 169]
+   (*<-concept_capacity;;*);;;
