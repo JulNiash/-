@@ -1,0 +1,21 @@
+Central_stadium.scs <- concept_a_sport_complex;
+=> nrel_main_idtf:
+   [Central_stadium]
+   (* <- lang_en;; <- name_en;;*);
+   [Стадион Центральный]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=> nrel_open_time:
+    [8:30];
+=> nrel_close_time:
+    [17:00];
+=> nrel_region:
+   gomel_region;;
+=> nrel_phone_number:
+   [375 23 234-99-65]
+   (* <- concept_phone_number;;*);
+=> nrel_location:
+   [площадь Восстания,1]
+   (*<-concept_locaion;;*);
+=> nrel_capacity
+   [14 307]
+   (*<-concept_capacity;;*);

@@ -1,0 +1,21 @@
+SC_Spartacus.scs <- concept_a_sport_complex;
+=> nrel_main_idtf:
+   [SC Spartacus]
+   (* <- lang_en;; <- name_en;;*);
+   [СК Спартак]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=> nrel_open_time:
+    [8:00];
+=> nrel_close_time:
+    [16:30];
+=> nrel_region:
+   mogilev_region;;
+=> nrel_phone_number:
+   [375 22 572-84-24]
+   (* <- concept_phone_number;;*);
+=> nrel_location:
+   [ул.Октябрьская,17]
+   (*<-concept_locaion;;*);
+=> nrel_capacity
+   [3 700]
+   (*<-concept_capacity;;*);;;

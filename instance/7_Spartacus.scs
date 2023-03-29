@@ -1,0 +1,21 @@
+Spartacus.scs <- concept_a_sport_complex;
+=> nrel_main_idtf:
+   [Spartacus]
+   (* <- lang_en;; <- name_en;;*);
+   [Спартак]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=> nrel_open_time:
+    [6:00];
+=> nrel_close_time:
+    [22:00];
+=> nrel_region:
+   mogilev_region;;
+=> nrel_phone_number:
+   [375 15 242-35-42]
+   (* <- concept_phone_number;;*);
+=> nrel_location:
+   [ул.Первомайская,61А]
+   (*<-concept_locaion;;*);
+=> nrel_capacity
+   [7 350]
+   (*<-concept_capacity;;*);;;

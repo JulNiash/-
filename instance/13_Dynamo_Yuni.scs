@@ -1,0 +1,18 @@
+Dynamo_Yuni.scs <- concept_a_sport_complex;
+=> nrel_main_idtf:
+   [Dynamo-Yuni]
+   (* <- lang_en;; <- name_en;;*);
+   [Динамо-Юни]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=> nrel_open_time:
+    [8:00];
+=> nrel_close_time:
+    [16:30];
+=> nrel_region:
+   minsk_region;;
+=> nrel_location:
+   [ул.Академика Вышелесского,4А]
+   (*<-concept_locaion;;*);
+=> nrel_capacity
+   [4 500]
+   (*<-concept_capacity;;*);;;

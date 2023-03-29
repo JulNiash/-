@@ -1,0 +1,14 @@
+SC_Polesye.scs <- concept_a_sport_complex;
+=> nrel_main_idtf:
+   [SC Polesye]
+   (* <- lang_en;; <- name_en;;*);
+   [СК Полесье]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=> nrel_region:
+   brest_region;;
+=> nrel_location:
+   [Лунинец]
+   (*<-concept_locaion;;*);
+=> nrel_capacity
+   [3 090]
+   (*<-concept_capacity;;*);;;
